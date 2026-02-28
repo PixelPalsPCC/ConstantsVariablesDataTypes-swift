@@ -12,7 +12,7 @@ swift run
 
 [https://github.com/PixelPalsPCC/SwiftFundamentalsLabs](https://github.com/PixelPalsPCC/SwiftFundamentalsLabs)
 
-Apple Book [Develop in Swift Fundamentals](https://books.apple.com/us/book/develop-in-swift-fundamentals/id6468967906) Xcode 15
+Apple Book [Develop in Swift Fundamentals](https://books.apple.com/us/book/develop-in-swift-fundamentals/id6468967906) for Xcode 15
 
 
 
