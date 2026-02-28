@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:ConstantsVariablesDataTypes}",
+            "name": "Debug ConstantsVariablesDataTypes",
+            "target": "ConstantsVariablesDataTypes",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug ConstantsVariablesDataTypes"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:ConstantsVariablesDataTypes}",
+            "name": "Release ConstantsVariablesDataTypes",
+            "target": "ConstantsVariablesDataTypes",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release ConstantsVariablesDataTypes"
+        }
+    ]
+}
