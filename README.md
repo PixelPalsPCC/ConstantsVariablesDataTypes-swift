@@ -1,9 +1,9 @@
 # ConstantsVariablesDataTypes-swift
 
-#create an app
+#create an app  
 swift build
 
-#run the app
+#run the app  
 swift run
 
 
